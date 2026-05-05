@@ -1,0 +1,9 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging package for frontend applications",
+  "main": "logger.js",
+  "type": "module",
+  "author": "Ayush Tyagi",
+  "license": "ISC"
+}
